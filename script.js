@@ -1,7 +1,8 @@
 
 
-//document.getElementById("2").innerText="hhhhhh"
-//para1.innerText="hwo are you "+innerText
+// Adding events on button
+// 4 buttons with 4 different links
+
 let btn1= document.getElementById("btn1")
 btn1.addEventListener('click',function(e){
     window.location="https://www.instagram.com/"
